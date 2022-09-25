@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/thaileng.github.io/static/css/main.9e4508fd.css",
-    "main.js": "/thaileng.github.io/static/js/main.1c9eaa5c.js",
+    "main.js": "/thaileng.github.io/static/js/main.644f6b20.js",
     "static/css/141.37dac2b2.chunk.css": "/thaileng.github.io/static/css/141.37dac2b2.chunk.css",
-    "static/js/141.4f1d971d.chunk.js": "/thaileng.github.io/static/js/141.4f1d971d.chunk.js",
+    "static/js/141.bff9502a.chunk.js": "/thaileng.github.io/static/js/141.bff9502a.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/thaileng.github.io/static/css/769.70f3b610.chunk.css",
-    "static/js/769.f3506cea.chunk.js": "/thaileng.github.io/static/js/769.f3506cea.chunk.js",
+    "static/js/769.085b15e9.chunk.js": "/thaileng.github.io/static/js/769.085b15e9.chunk.js",
     "static/media/itclogo.png": "/thaileng.github.io/static/media/itclogo.07efeaa03cb09b8fa8e1.png",
     "static/media/aitlogo.jpeg": "/thaileng.github.io/static/media/aitlogo.ffe489085d11b3801f1a.jpeg",
     "static/media/Montserrat-Regular.ttf": "/thaileng.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -25,14 +25,14 @@
     "index.html": "/thaileng.github.io/index.html",
     "static/media/talksCardBack.svg": "/thaileng.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9e4508fd.css.map": "/thaileng.github.io/static/css/main.9e4508fd.css.map",
-    "main.1c9eaa5c.js.map": "/thaileng.github.io/static/js/main.1c9eaa5c.js.map",
+    "main.644f6b20.js.map": "/thaileng.github.io/static/js/main.644f6b20.js.map",
     "141.37dac2b2.chunk.css.map": "/thaileng.github.io/static/css/141.37dac2b2.chunk.css.map",
-    "141.4f1d971d.chunk.js.map": "/thaileng.github.io/static/js/141.4f1d971d.chunk.js.map",
+    "141.bff9502a.chunk.js.map": "/thaileng.github.io/static/js/141.bff9502a.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/thaileng.github.io/static/css/769.70f3b610.chunk.css.map",
-    "769.f3506cea.chunk.js.map": "/thaileng.github.io/static/js/769.f3506cea.chunk.js.map"
+    "769.085b15e9.chunk.js.map": "/thaileng.github.io/static/js/769.085b15e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4508fd.css",
-    "static/js/main.1c9eaa5c.js"
+    "static/js/main.644f6b20.js"
   ]
 }
